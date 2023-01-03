@@ -8,6 +8,7 @@
 RivGames/RivGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<pre>
 <code>
 const RivGames = {
   pronouns: 'He' | 'Him',
@@ -23,4 +24,5 @@ const RivGames = {
     'There are two ways to write error-free programs; only the third one works',
 }
 </code>
+</pre>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RivGames)](https://git.io/streak-stats)
