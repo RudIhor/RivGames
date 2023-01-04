@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RivGames
-- 👀 I’m interested in PHP,HTML/CSS,MySQL,JS/vue.js,REST API,Laravel,Symfony,GNU/Linux(Ubuntu) and anything else that might draw my attention.
-- 🌱 I’m currently learning REST API
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in PHP,HTML/CSS,MySQL,JS/VUEjs,REST API,Laravel,Symfony,GNU/Linux(Ubuntu) and anything else that might draw my attention.
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me Igorryd7@gmail.com
 
 <!---
