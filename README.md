@@ -1,26 +1,18 @@
 - 👋 Hi, I’m @RivGames
-- 👀 I’m interested in PHP,HTML/CSS,MySQL,JS/VUEjs,REST API,Laravel,Symfony,GNU/Linux(Ubuntu) and anything else that might draw my attention.
-- 🌱 I’m currently learning RESTful API
-- 📫 How to reach me Igorryd7@gmail.com
+- 📫 How to reach me Ihorryd9@gmail.com
 
-<!---
-RivGames/RivGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <pre>
 <code>
 const RivGames = {
   pronouns: 'He',
-  code: ['Javascript', 'C/C++', 'PHP', 'Laravel'],
+  code: ['Javascript', 'C/C++', 'PHP', 'Laravel', 'CakePHP', 'Angular'],
   askMeAbout: ['web dev', 'tech','problem solver'],
   technologies: {
-      techs: ['VueJs', 'Javascript','PHP', 'Laravel'],
-    databases: ['MySql'],
-    
+      techs: ['VueJs', 'Javascript','PHP', 'Laravel', 'CakePHP', 'Angular', 'SCSS', 'Typescript', 'Docker'],
+      databases: ['MySQL', 'PostgreSQL']
   },
-  currentFocus: 'Learning RESTful API',
-  funFact:
-    'There are two ways to write error-free programs; only the third one works',
+  currentFocus: 'Design Patterns',
+  funFact: 'There are two ways to write error-free programs; only the third one works',
 }
 </code>
 </pre>
